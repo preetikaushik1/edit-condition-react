@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.outerbox{
+  width: 600px;
+  margin: 0 auto;
+  background-color:orangered;
+  padding: 50px;
+}
+.input{
+  width: 100%;
+  float: left;
+  height: 200px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+
+.btn{
+float: right;
+  margin-top: 10px;
+  padding: 8px 15px;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn2{
+    margin-top: 10px;
+    padding: 8px 15px;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+  }
